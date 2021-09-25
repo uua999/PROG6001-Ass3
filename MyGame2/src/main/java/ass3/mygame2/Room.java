@@ -67,7 +67,7 @@ public class Room
 
     public String getAllItems(){
 
-        return "You have some " + listOfItems();
+        return "This room has " + listOfItems();
 
     }
 
